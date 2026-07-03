@@ -1,1 +1,1 @@
-echo "# Nothing Here"
+# Nothing Here
